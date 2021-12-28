@@ -1,0 +1,31 @@
+
+/* navigation */
+.navbar-dark .navbar-nav .nav-link {
+	color: rgba(255,255,255,1);
+}
+
+/* Jumbotron */
+.jumbotron {
+	background: linear-gradient(rgba(4,9,30,.3), rgba(4,9,30,.1)),
+							url("../img/1.png"), no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+
+/* Service */
+.btn-secondary {
+	background-color: transparent;
+	    color: #ffc107;
+    border-color: #ffc107;
+}
+
+.btn-secondary:hover {
+  background-color: #ffc107;
+  border-color: #ffc107;
+}
+
+/* Contact */
+#contact {
+	background: url("../img/2.png"), no-repeat, center;
+}
