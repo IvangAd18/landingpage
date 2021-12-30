@@ -1,9 +1,9 @@
 <!-- Navigation -->
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-warning">
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-angracana">
 
 	<div class="container">
 
-		<a class="navbar-brand h1" href="#">Angracana</a>
+		<a class="navbar-brand fs-1 h1" href="#">Angracana</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		 <span class="navbar-toggler-icon"></span>
 		</button>
@@ -45,7 +45,7 @@
 
 		<div class="col-md-4 mb-4">
 			<div class="card h-100">
-				<img src="../img/service1.jpeg" alt="Service 1" class="card-img-top">
+				<img src="img/service1.jpeg" alt="Service 1" class="card-img-top">
 				<div class="card-body">
 					<h4 class="card-title">Service A</h4>
 					<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id ipsam ipsum repellat architecto tenetur necessitatibus!</p>
@@ -58,7 +58,7 @@
 
 		<div class="col-md-4 mb-4">
 			<div class="card h-100">
-				<img src="../img/service2.jpg" alt="Service 2" class="card-img-top">
+				<img src="img/service2.jpg" alt="Service 2" class="card-img-top">
 				<div class="card-body">
 					<h4 class="card-title">Service B</h4>
 					<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id ipsam ipsum repellat architecto tenetur necessitatibus!</p>
@@ -71,7 +71,7 @@
 
 		<div class="col-md-4 mb-4">
 			<div class="card h-100">
-				<img src="../img/service3.jpeg" alt="Service 3" class="card-img-top">
+				<img src="img/service3.jpeg" alt="Service 3" class="card-img-top">
 				<div class="card-body">
 					<h4 class="card-title">Service C</h4>
 					<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id ipsam ipsum repellat architecto tenetur necessitatibus!</p>
@@ -91,7 +91,7 @@
 	
 	<h2 class="display-4 pb-4 my-4">Get in touch with us today!</h2>
 	<p class="lead pb-3">Send us a messageand we will get back to you as soon as posible.</p>
-	<a href="#" class="btn btn-primary btn-lg mb-4">Contact Us</a>
+	<a href="#"  id="btn-contact" class="btn btn-warning btn-lg mb-4">Contact Us</a>
 
 </section>
 
